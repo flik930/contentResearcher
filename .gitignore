@@ -48,3 +48,9 @@ temp/
 
 # Cache directories
 .cache/
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z

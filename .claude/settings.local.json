@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "mcp__notion__search",
+      "mcp__notion__fetch",
+      "mcp__notion__notion-create-pages",
+      "mcp__notion__notion-create-database",
+      "mcp__notion__notion-update-page",
+      "mcp__notion__notion-update-database"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
