@@ -10,7 +10,9 @@
       "mcp__notion__notion-create-pages",
       "mcp__notion__notion-create-database",
       "mcp__notion__notion-update-page",
-      "mcp__notion__notion-update-database"
+      "mcp__notion__notion-update-database",
+      "Bash(iconv:*)",
+      "Bash(git config:*)"
     ],
     "deny": [],
     "ask": []
