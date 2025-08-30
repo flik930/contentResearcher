@@ -12,7 +12,10 @@
       "mcp__notion__notion-update-page",
       "mcp__notion__notion-update-database",
       "Bash(iconv:*)",
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "mcp__Canva__generate-design",
+      "mcp__Canva__export-design",
+      "Bash(curl:*)"
     ],
     "deny": [],
     "ask": []

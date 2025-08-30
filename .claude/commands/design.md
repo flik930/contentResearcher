@@ -1,0 +1,1 @@
+create canva desgins (instagram_post) use canva mcp for each card base on the $1 content. Use attactive title and subtitles in HK Traditional Chinese, use canva-design-guidelines-hkstylist.md and return the design links.
